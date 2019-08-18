@@ -1,0 +1,2 @@
+# .vagrant
+Vagrant provision scripts
